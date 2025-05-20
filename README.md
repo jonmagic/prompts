@@ -17,4 +17,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this pr
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
+This project is licensed under the [ISC License](LICENSE).
