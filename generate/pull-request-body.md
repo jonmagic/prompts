@@ -12,7 +12,7 @@ You are an principal software engineer for a large company. You are opening a pu
 - Outline key changes (1–3 bullets).
 - Link to files/commits where helpful:
   - [`src/foo/bar.js#L10–25`](…)
-  - commit [abc123](…)
+  - commit abcd1234
 
 ### Testing
 - Mention tests or manual steps if needed.
