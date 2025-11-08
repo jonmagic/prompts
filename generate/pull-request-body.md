@@ -9,9 +9,3 @@ Describe what is broken or missing. Keep it focused (1–2 paragraphs or bullets
 ## How?
 *Explain the solution in present tense and make review easy.*
 - Outline key changes (1–3 bullets).
-- Mention files/commits where helpful but don't make them links automatically:
-  - `src/foo/bar.js#L10–25`
-  - commit abcd1234
-
-### Testing
-- Mention tests or manual steps if needed.
